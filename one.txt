@@ -2,3 +2,5 @@ one
 Hello
 remote change
 pull change test
+
+test the restore
